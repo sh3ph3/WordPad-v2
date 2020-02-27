@@ -18,6 +18,7 @@ public class Sh3ph3V3 {
         // TODO code application logic here
         int x=0;
         int y=3
+        System.err.println("Error su");
     }
     
 }
