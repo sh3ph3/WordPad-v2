@@ -16,7 +16,8 @@ public class Sh3ph3V3 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        x=0;
+        int x=0;
+        int y=3
     }
     
 }
